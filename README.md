@@ -10,7 +10,7 @@ I have made notes (in the following form '''NOTES''') to clarify the process I u
 A small portion of the code (def createpoints) is modified from user kiyo on https://stackoverflow.com/questions/6141955/efficiently-generate-a-lattice-of-points-in-python
 All other code is my own.
 
-My code allows for any input of nearest neighbours and the resultant planar graph is draw.
+My code allows for any input of nearest neighbours and the resultant planar graph is drawn.
 Any vector coordinates can be placed in the code and the lattice will be generated.
 With the nature of the code the program struggles with unreasonable vectors, i.e. one much larger
 than the other.
