@@ -1,5 +1,5 @@
 # LatticeNearestNeighbours
-This project of mine explores the various science python libraries, such as networkx, opencv and scipy.spatial.Voronoi.
+This project explores the various science python libraries, such as networkx, opencv and scipy.spatial.Voronoi.
 
 I chose to code my programs in python as I have more fluency in this.
 
